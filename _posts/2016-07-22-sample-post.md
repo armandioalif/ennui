@@ -1,89 +1,56 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-author: kuoa
-category: misc
-tags: book live life
+title: Kucing Pemakan Manusia
+description: Haruki Murakami
+author: Penerjemah: Sabda Armandio
+category: Terjemahan
+tags: terjemahan, cerita pendek
 finished: true
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
 # Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+Kucing Pemakan Manusia
 
 ### Body text
+Aku membeli koran di pelabuhan dan menemukan sebuah artikel tentang seorang wanita tua yang dimakan kucing. Ia berusia tujuh puluh tahun dan tinggal sendirian di kota kecil pinggiran Athena—semacam kehidupan yang tenang, hanya ia dan tiga ekor kucing dalam sebuah apartemen kecil. Suatu hari, ia tiba-tiba jatuh pingsan dengan posisi tertelungkup di sofa—serangan jantung, kemungkinan besar. Tak ada yang tahu berapa lama waktu yang dibutuhkan hingga ia meninggal dunia setelah pingsan. Wanita tua itu tidak memiliki kerabat atau teman yang mengunjunginya secara teratur, dan diperlukan satu minggu sebelum tubuhnya ditemukan. Jendela dan pintu ditutup, dan kucing terjebak. Tak ada makanan di dalam apartemen itu. Memang, mungkin ada sesuatu di lemari es, namun kucing tidak berevolusi sampai titik di mana mereka bisa membuka lemari es sendiri. Di ambang kelaparan, mereka akhirnya melahap daging tuan mereka.
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+Aku membaca artikel ini untuk Izumi, yang duduk di depanku. Pada hari-hari cerah, kami biasanya berjalan ke pelabuhan, membeli salinan koran Athena yang berbahasa Inggris, memesan kopi di kafe sebelah kantor pajak, dan setelah itu aku akan meringkas dalam bahasa Jepang sesuatu yang menarik yang mungkin kutemukan. Sejauh ini, itulah jadwal rutin kami sehari-hari di pulau. Jika ada sesuatu di artikel khusus yang menarik minat kami, kami akan berdiskusi santai sejenak tentang artikel itu. Bahasa Inggris Izumi cukup bagus, dan sesungguhnya ia bisa dengan mudah membaca artikel sendiri. Tapi aku tidak pernah sekalipun melihat ia membeli koran.
 
-This is a image.
+"Aku ingin memiliki seseorang yang membacakannya untukku," jelasnya. “Itu mimpiku sejak masih kecil—duduk di tempat yang cerah, memandangi langit atau laut, dan memiliki seseorang yang membaca keras-keras untukku. Aku enggak peduli apa yang mereka baca—koran, buku pelajaran, novel. Bukan masalah.  Tapi belum pernah ada seorang pun yang membaca untukku. Jadi, kukira, itu artinya kamu diciptakan untuk semua kesempatan yang hilang itu. Dan selain itu, aku suka suaramu.”
 
-![panda]({{ site.url }}/assets/logo.png)
+Yah, ada langit dan laut di hadapan kami. Dan aku senang membaca keras-keras. Saat tinggal di Jepang, aku biasa membacakan buku-buku bergambar dengan lantang untuk anak lelakiku. Membaca dengan suara lantang berbeda dengan hanya mengikuti kalimat dengan sepasang matamu. Sesuatu yang sungguh tak terduga mengalir di dalam pikiranmu, semacam resonansi tak terlukiskan yang tidak mungkin dilawan.
 
+Sambil sesekali menyesap kopi, aku membaca artikel dengan perlahan-lahan. Aku lebih dulu membaca beberapa baris untuk diriku sendiri, merenungkan bagaimana memasukkannya ke dalam bahasa Jepang, kemudian menerjemahkannya dengan suara keras. Beberapa lebah muncul dari suatu tempat untuk menjilat selai sisa pelanggan sebelumnya yang tumpah di atas meja. Sesaat lebah-lebah itu menjilatinya, lalu, seolah tiba-tiba teringat sesuatu, terbang ke udara dengan dengung yang seperti upacara, mengitari meja beberapa kali, dan kemudian—lagi-lagi seolah sesuatu membangkitkan ingatan mereka—menetap sekali lagi di atas meja. Setelah aku selesai membaca seluruh artikel, Izumi duduk di sana, tak bergerak, dengan siku bertumpu di atas meja. Ia mempertemukan ujung jemari kanan dengan ujung jemari kirinya. Aku meletakkan koran di atas pangkuan dan menatap jemari rampingnya. Ia menatapku melalui ruang antara jemarinya.
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+“Lalu, apa yang terjadi?” tanyanya.
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+“Cuma begitu saja,” jawabku, dan melipat koran. Aku mengambil sapu tangan dari dalam saku dan menyeka bintik-bintik ampas kopi dari bibirku. “Setidaknya, hanya itulah yang diwartakan.”
 
-### Blockquotes
+“Tapi apa yang terjadi dengan kucing-kucingnya?”
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+Aku memasukkan saputangan kembali ke dalam saku. “Entahlah. Enggak dibahas lebih lanjut.”
 
-## List Types
+Izumi mengerutkan bibirnya ke satu sisi, kebiasaan kecilnya. Setiap kali ia hendak melontarkan pendapat—yang kerap berbentuk seperti deklarasi kecil— ia mengerutkan bibir seperti itu, seolah tengah menyentak sprei untuk merapikan kerutan-kerutan liar. Ketika pertama kali bertemu dengannya, kebiasaan itu cukup memikatku.
 
-### Ordered Lists
+“Koran itu semua sama saja, ke mana pun kamu pergi,” ia akhirnya melanjutkan. “Koran-koran itu enggak pernah memberitahu apa yang benar-benar ingin kautahu.”
 
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
+Izumi mengeluarkan sebatang rokok Salem dari kotaknya, meletakkannya di mulut, dan menggesek korek api. Setiap hari, ia menghabiskan sebungkus rokok Salem—tidak kurang, tidak lebih. Ia membuka bungkus baru di pagi hari dan menghabiskan rokok itu hingga hari berakhir. Aku tidak merokok. Istriku membuatku berhenti, lima tahun yang lalu, saat ia hamil.
 
-### Unordered Lists
+“Apa yang aku benar-benar ingin tahu," Izumi memulai, asap dari rokoknya bergelung tanpa suara di udara, “Adalah apa yang terjadi dengan para kucing setelahnya. Apakah pihak berwajib membunuh mereka karena mereka makan daging manusia? Ataukah mereka bilang, ‘kalian sudah melawati masa-masa sulit,’ lantas memberi mereka tepukan di kepala, dan membiarkan mereka pergi? Menurutmu bagaimana?”
 
-* Item one
-* Item two
-* Item three
+Aku memandangi lebah yang melayang di atas meja dan berpikir tentang pertanyaan itu. Lebah-lebah kecil yang gelisah menjilati selai dan tiga kucing yang melahap daging wanita tua itu menjadi satu dalam benakku. Jeritan burung-burung camar di kejauhan berkelindan dengan dengung lebah, dan sepersekian detik kesadaranku tersesat di ambang batas kenyataan dan ilusi. Di manakah aku? Apa yang sedang kulakukan di sini? Aku kehilangan tumpuan dalam situasi seperti ini. Aku menarik napas dalam-dalam, menatap ke langit, dan berpaling ke Izumi.
 
-## Tables
+“Aku enggak tahu.”
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
+“Coba pikirkan ini. Jika kamu adalah seorang walikota atau kepala polisi, apa yang akan kamu lakukan dengan kucing-kucing itu?”
 
-## Code Snippets
+“Bagaimana kalau menempatkan mereka dalam sebuah institusi untuk mereformasi mereka?” kataku. “Ubah mereka jadi vegetarian.”
 
-Syntax highlighting via Rouge
+Izumi tidak tertawa. Ia menghisap rokok dan mengeluarkan asapnya dengan sangat perlahan. “Cerita itu mengingatkanku pada sebuah ceramah yang kudengar saat baru masuk di SMP Katolik. Eh, apa aku sudah bilang aku pernah bersekolah di sekolah Katolik yang sangat ketat? Sesaat setelah upacara masuk, salah satu suster kepala menyuruh kami semua berkumpul di auditorium, dan kemudian dia naik ke podium dan memberikan ceramah tentang ajaran Katolik. Ia berbicara banyak hal, tapi yang paling kuingat—sebenarnya, satu-satunya hal yang kuingat—adalah cerita yang ia tuturkan kepada kami tentang terdampar di sebuah pulau terpencil bersama seekor kucing.”
 
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
+“Kedengarannya menarik,” ujarku.
 
-Non Rouge code example
+“’Kalian berada dalam kecelakaan kapal,’ katanya kepada kami. ‘Satu-satunya yang ada di sekoci hanya kalian dan kucing. Kalian terdampar di salah satu pulau terpencil tak bernama, dan di sana tidak ada satu pun untuk dimakan. Yang kalian miliki hanya air secukupnya dan biskuit kering untuk menopang hidup satu orang selama sekitar sepuluh hari.’ Ujarnya, ‘Baiklah, semuanya, saya ingin kalian membayangkan diri dalam situasi ini. Tutup mata kalian dan cobalah membayangkannya. Kalian sendirian di pulau terpencil, hanya kalian dan seekor kucing. Kalian hampir tidak memiliki makanan sama sekali. Kalian paham? Kalian lapar, haus, dan akhirnya kalian akan mati. Apa yang harus kalian lakukan? Haruskah kalian berbagi simpanan makanan dengan kucing? Tidak, kalian tidak harus melakukannya. Itu merupakan suatu kesalahan. Kalian semua adalah makhluk mulia, makhluk pilihan  Tuhan, dan kucing bukan. Itulah mengapa kalian harus makan semua makanan itu sendiri.’ suster itu memandangi kami dengan tatapan yang amat serius. Aku sedikit terkejut. Apa gerangan tujuannya bercerita seperti itu kepada anak-anak yang baru saja masuk sekolah? Aku berpikir, wah, tempat macam apa yang aku masuki ini?”
 
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
 
 
