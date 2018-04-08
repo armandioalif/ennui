@@ -12,7 +12,7 @@ links:
   - name:         indeks
     url:          /
   - name:         terjemahan
-    url:          /about
+    url:          /terjemahan
     external:     false
   - name:         buku
     url:          /archive
