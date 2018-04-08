@@ -1,7 +1,7 @@
 # Site settings
 title: ennui 
 description: the rest is silence
-url: https://armandioalif.github.io/ennui/
+url: https://armandioalif.github.io/ennui
 baseurl: /ennui/
 
 disqus_shortname: obrol
