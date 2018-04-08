@@ -10,16 +10,16 @@ google_analytics: false #if set to "true" modify the google_analytycs.html, set 
 # Links settings
 links:
   - name:         indeks
-    url:          armandioalif.github.com/ennui
+    url:          /ennui
   - name:         buku
-    url:          armandioalif.github.com/ennui/buku
+    url:          /ennui/buku
     external:     false
   - name:         terjemahan
-    url:          armandioalif.github.com/ennui/terjemahan
+    url:          /ennui/terjemahan
     external:     false
     external:     false
   - name:         profil
-    url:          armandioalif.github.com/ennui/profil
+    url:          /ennui/profil
     external:     false
 
 # Build settings
