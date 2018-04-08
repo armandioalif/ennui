@@ -11,9 +11,6 @@ google_analytics: false #if set to "true" modify the google_analytycs.html, set 
 links:
   - name:         indeks
     url:          /
-  - name:         terjemahan
-    url:          /terjemahan
-    external:     false
   - name:         buku
     url:          /archive
     external:     false
