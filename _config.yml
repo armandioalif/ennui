@@ -1,6 +1,6 @@
 # Site settings
-title: Julia #website title
-description: > # this means to ignore newlines until "baseurl:"
+title: ennui #website title
+description: the rest is silence # this means to ignore newlines until "baseurl:"
   Julia
 url: #https://kuoa.github.io # the base hostname & protocol for your site
 baseurl: # the sub-path of your site, e.g. /blog/
