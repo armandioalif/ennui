@@ -4,21 +4,21 @@ description: the rest is silence
 url: https://armandioalif.github.io/
 baseurl: /ennui/
 
-disqus_shortname: kuoa # leave empty if you don't want comments
+disqus_shortname: obrol
 google_analytics: false #if set to "true" modify the google_analytycs.html, set to false otherwise
 
 # Links settings
 links:
-  - name:         Home
+  - name:         indeks
     url:          /
-  - name:         About
+  - name:         terjemahan
     url:          /about
     external:     false
-  - name:         Archive
+  - name:         buku
     url:          /archive
     external:     false
     external:     false
-  - name:         GitHub
+  - name:         profil
     url:          http://github.com/kuoa
     external:     true
 
