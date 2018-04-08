@@ -2,7 +2,7 @@
 title: ennui 
 description: the rest is silence
 url: https://armandioalif.github.io/ennui
-baseurl: ennui/
+baseurl: /ennui
 
 disqus_shortname: obrol
 google_analytics: false #if set to "true" modify the google_analytycs.html, set to false otherwise
