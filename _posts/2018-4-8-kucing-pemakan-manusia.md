@@ -52,5 +52,23 @@ Izumi tidak tertawa. Ia menghisap rokok dan mengeluarkan asapnya dengan sangat p
 
 “’Kalian berada dalam kecelakaan kapal,’ katanya kepada kami. ‘Satu-satunya yang ada di sekoci hanya kalian dan kucing. Kalian terdampar di salah satu pulau terpencil tak bernama, dan di sana tidak ada satu pun untuk dimakan. Yang kalian miliki hanya air secukupnya dan biskuit kering untuk menopang hidup satu orang selama sekitar sepuluh hari.’ Ujarnya, ‘Baiklah, semuanya, saya ingin kalian membayangkan diri dalam situasi ini. Tutup mata kalian dan cobalah membayangkannya. Kalian sendirian di pulau terpencil, hanya kalian dan seekor kucing. Kalian hampir tidak memiliki makanan sama sekali. Kalian paham? Kalian lapar, haus, dan akhirnya kalian akan mati. Apa yang harus kalian lakukan? Haruskah kalian berbagi simpanan makanan dengan kucing? Tidak, kalian tidak harus melakukannya. Itu merupakan suatu kesalahan. Kalian semua adalah makhluk mulia, makhluk pilihan  Tuhan, dan kucing bukan. Itulah mengapa kalian harus makan semua makanan itu sendiri.’ suster itu memandangi kami dengan tatapan yang amat serius. Aku sedikit terkejut. Apa gerangan tujuannya bercerita seperti itu kepada anak-anak yang baru saja masuk sekolah? Aku berpikir, wah, tempat macam apa yang aku masuki ini?”
 
+## Code Snippets
+
+Syntax highlighting via Rouge
+
+```css
+#container {
+  float: left;
+  margin: 0 -240px 0 0;
+  width: 100%;
+}
+```
+
+Non Rouge code example
+
+    <div id="awesome">
+        <p>This is great isn't it?</p>
+    </div>
+
 
 
