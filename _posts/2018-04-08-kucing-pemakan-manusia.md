@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Kucing Pemakan Manusia
 ## Haruki Murakami
